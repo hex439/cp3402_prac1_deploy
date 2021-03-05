@@ -4,6 +4,10 @@ body {
     color: white;
 }
 
+h1 {
+    margin-bottom: 50px;
+}
+
 .navbar {
     position: fixed;
     top: 0;
